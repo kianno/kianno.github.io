@@ -9,7 +9,7 @@
       "type": "image/png"
     }
   ],
-  "name": "QAI Name",
+  "name": "QAI",
   "short_name": "QAI",
-  "start_url": "http://www.google.com"
+  "start_url": "/index.html"
 }
