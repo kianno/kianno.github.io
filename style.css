@@ -33,7 +33,8 @@ body {
     bottom:0px;
     width:100%;
 	margin-top: 100px;
-	margin-bottom:50px;
+	margin-bottom:200px;
+	font-size: 30px
 	font-family: courier;
 	
 }
@@ -41,12 +42,38 @@ body {
 .bottom {
 	/*position: absolute;*/
 	text-align: center;
-    bottom:0px;
+    bottom:20px;
     width:100%;
 	font-weight: bold;
-	font-size: 20px;
+	font-size: 40px;
 	font-family: courier;
 }
+
+@media only screen and (max-width: 600px) {
+  .ver {
+	position: absolute;
+	text-align: center;
+    bottom:0px;
+    width:100%;
+	margin-top: 100px;
+	margin-bottom:200px;
+	font-size: 30px
+	font-family: courier;
+	
+	}
+
+	.bottom {
+		position: absolute;
+		text-align: center;
+		bottom:0px;
+		width:100%;
+		font-weight: bold;
+		font-size: 40px;
+		font-family: courier;
+	}
+}
+
+
 
 button {  
   width: 90%;
