@@ -11,18 +11,41 @@ body {
 .center {
   display: block;
   margin-left: auto;
-  margin-right: auto;
+  margin-right: auto; 
   
 }
 
-.versionstyle
-{
-	text-align: center;
-    bottom:0;
-    width:100%;
-    height:60px;   /* Height of the footer */
-    
+.qaicenter {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;  
+  width: 250px;
+  
+}
 
+.buttonimage {
+	width: 70%;	
+}
+
+.ver {
+	/*position: absolute;*/
+	text-align: center;
+    bottom:0px;
+    width:100%;
+	margin-top: 100px;
+	margin-bottom:50px;
+	font-family: courier;
+	
+}
+
+.bottom {
+	/*position: absolute;*/
+	text-align: center;
+    bottom:0px;
+    width:100%;
+	font-weight: bold;
+	font-size: 20px;
+	font-family: courier;
 }
 
 button {  

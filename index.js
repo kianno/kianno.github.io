@@ -19,4 +19,7 @@ if('serviceWorker' in navigator) {
            .then(function() { console.log('Service Worker Registered'); });
 }
 
-
+function CloseWin()
+{
+	window.close();
+}
