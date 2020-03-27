@@ -24,11 +24,11 @@ body {
 }
 
 .qaititle {
-	width:100%;text-align: center;background-color:blue;
+	width:100%;text-align: center;
 }
 
 .qaititletext{
-	width:50%; background-color:red;display: inline-block;
+	width:50%; display: inline-block;
 	font: bold 40px Arial, serif;
 }
 
