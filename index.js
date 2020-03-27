@@ -15,7 +15,7 @@
 
 if('serviceWorker' in navigator) {
   navigator.serviceWorker
-           .register('/kianno.github.io/sw.js')
+           .register('/sw.js')
            .then(function() { console.log('Service Worker Registered'); });
 }
 
