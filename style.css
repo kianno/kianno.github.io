@@ -29,7 +29,8 @@ body {
 
 .qaititletext{
 	width:50%; display: inline-block;
-	font: bold 80px Arial, serif;
+	font: bold 70px Arial, serif;
+	color: #19518B;
 }
 
 .buttonimage {
