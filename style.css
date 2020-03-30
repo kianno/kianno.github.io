@@ -38,7 +38,7 @@ body {
 }
 
 .ver {
-	/*position: absolute;*/
+	position: absolute;
 	text-align: center;
     bottom:0px;
     width:100%;
@@ -49,7 +49,7 @@ body {
 }
 
 .bottom {
-	/*position: absolute;*/
+	position: absolute;
 	text-align: center;
     bottom:20px;
     width:100%;
