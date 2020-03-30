@@ -54,6 +54,7 @@ body {
     bottom:20px;
     width:100%;
 	font: bold 40px courier, serif;
+	background-color:red;
 }
 
 @media only screen and (max-width: 992px) {
@@ -74,7 +75,7 @@ body {
 		bottom:20px;
 		width:100%;
 		font: bold 40px courier, serif;
-		
+		background-color:blue;
 	}
 }
 
