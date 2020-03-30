@@ -19,18 +19,8 @@ body {
   display: block;
   margin-left: auto;
   margin-right: auto;  
-  width: 400px;
+  width: 300px;
   
-}
-
-.qaititle {
-	width:100%;text-align: center;
-}
-
-.qaititletext{
-	width:60%; display: inline-block;
-	font: 70px Open Sans, serif;
-	color: #19518B;
 }
 
 .buttonimage {
@@ -54,7 +44,6 @@ body {
     bottom:20px;
     width:100%;
 	font: bold 40px courier, serif;
-	
 }
 
 @media only screen and (max-width: 992px) {
