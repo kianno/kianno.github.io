@@ -97,7 +97,7 @@ body {
     width:100%;
 	margin-top: 100px;
 	margin-bottom:100px;
-	font: bold 30px courier, serif;
+	font: bold 25px courier, serif;
 	
 }
 
@@ -106,8 +106,8 @@ body {
 	text-align: center;
     bottom:20px;
     width:100%;
-	font: bold 30px courier, serif;
-	background-color:blue;
+	font: bold 25px courier, serif;
+	background-color:red;
 }
 
 
