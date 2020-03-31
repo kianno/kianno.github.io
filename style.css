@@ -87,7 +87,7 @@ body {
 }
 
 .mobile-buttonimage {
-	width: 50%;	
+	width: 60%;	
 }
 
 .mobile-ver {
@@ -107,7 +107,7 @@ body {
     bottom:20px;
     width:100%;
 	font: bold 20px courier, serif;
-	/*background-color: green;*/
+	background-color: red;
 }
 
 
