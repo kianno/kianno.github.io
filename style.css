@@ -87,7 +87,7 @@ body {
 }
 
 .mobile-buttonimage {
-	width: 30%;	
+	width: 24%;	
 }
 
 .mobile-ver {
@@ -97,7 +97,7 @@ body {
     width:100%;
 	margin-top: 100px;
 	margin-bottom:200px;
-	font: bold 40px courier, serif;
+	font: bold 30px courier, serif;
 	
 }
 
@@ -106,7 +106,7 @@ body {
 	text-align: center;
     bottom:20px;
     width:100%;
-	font: bold 40px courier, serif;
+	font: bold 30px courier, serif;
 	background-color:blue;
 }
 
