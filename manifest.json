@@ -1,0 +1,16 @@
+{
+  "background_color": "white",
+  "description": "QAI Link",
+  "display": "fullscreen",
+  "icons": [
+    {
+      "src": "icon/icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ],
+  "name": "QAI",
+  "short_name": "QAI",
+  "start_url": "/index.html",
+  "splash_pages": null
+}
