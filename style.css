@@ -23,6 +23,14 @@ body {
   
 }
 
+.qaiinstallcenter {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;  
+  width: 300px;
+  
+}
+
 .qaititle {
 	width:100%;text-align: center;
 }
